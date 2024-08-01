@@ -1,0 +1,38 @@
+Week 0 : Assignment 0
+Which software does prevent external access to a system?
+ a) Firewall
+
+
+Which classes are used for connection-less socket programming?
+c) Both Datagram Socket & Datagram Packet
+
+Which of the following is most appropriate about Threads? Threads of a process share
+ d) both heap and global variables.
+
+
+What is the maximum number of hosts under class B addresses?
+b) 65534
+
+Consider a system with 2 level caches. Access times of Level 1 cache, Level 2 cache, and main memory are 1 ns, 10ns, and 400 ns, respectively. The hit rates of Level 1 and Level 2 caches are 0.8 and 0.9, respectively. What is the average access time of the system ignoring the search time within the cache?
+c) 10.6 ns
+
+
+
+Using a larger block size in a fixed block size file system leads to
+a) better disk throughput but poorer disk space utilization
+
+
+
+Transport layer is implemented in the Firmware of a computer system.
+b) False
+
+
+A computer’s processor sends 32 bit addresses to the cache controller. It has a 512 KByte, 8-way set associative, write back data cache with block size of 32 Bytes. In addition to the address tag, each cache tag directory entry contains 3 valid bits and 1 modified bit. Find the size of the cache tag directory.
+b) 320 Kbits
+
+Flow control is mainly implemented in
+c) Transport Layer
+
+
+Where does the swap space reside ?
+b) Disk
