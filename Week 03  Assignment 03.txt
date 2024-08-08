@@ -1,0 +1,49 @@
+
+
+Which of the following statement(s) regarding OpenStack storage is/are right?
+ 
+ B. Both ephemeral storage and block storage are accessible from within VM
+ 
+ D. Ephemeral storage is used to run operating system and/or scratch space
+
+
+
+
+A task takes time T in a uniprocessor system. In a parallel implementation, the task runs on P processors parallelly. The parallel efficiency is Eff, where 0<Eff<1. What is the time taken by each processor (M) in this implementation?
+ 
+ B. M = T/(Eff×P)
+ 
+ 
+What does the term "biasness towards vendors" imply in the context of SLA monitoring?
+ A. Vendor-driven selection of monitoring parameters
+
+
+How does the master node in the Google File System maintain communication with chunk servers?
+ D. Heartbeat messages
+
+In a cloud, total service uptime is 175 minutes and availability of the service is 0.85. What is the service downtime?
+ C. 26.25 minutes
+ 
+
+Statement 1: In ephemeral storage, the stored objects persist until the VM is terminated.
+	 Statement 2: The ephemeral storage is managed by Cinder in OpenStack.
+ A. Statement 1 is TRUE, Statement 2 is FALSE
+
+
+
+
+ "Msize providers can achieve similar statistical economies to an infinitely large provider” Does this fall under?
+  C. Independent demand
+
+
+Let D(t) and R(t) be the instantaneous demand and resources at time t respectively. If demand is exponential (D(t)=et), any fixed provisioning interval (tp) according to the current demands will fall linearly behind.
+ B. FALSE
+
+
+
+Which of the following is/are expected common SLA parameter(s) for both Software-as-a-Service and Storage-as-a-Service models?
+ B. scalability
+
+
+Data retention and deletion by cloud providers do not fall under one of the SLA requirements.
+ B. False
