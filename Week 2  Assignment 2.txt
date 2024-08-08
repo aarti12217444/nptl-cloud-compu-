@@ -1,0 +1,39 @@
+Service-Oriented Architecture (SOA) possess:
+a) A service provider, service requestor and service broker
+
+
+
+XML is designed to describe _________.
+c) data
+
+SOAP (Simple Object Access Protocol) does not restrict the endpoint implementation technology choices. SOAP is a platform-neutral choice.
+a) True
+
+
+A Cyber‐Physical Cloud Computing (CPCC) architectural framework is a ________environment that can rapidly build, modify and provision cyber‐physical systems composed of a set of__________ based sensor, processing, control, and data services.
+a) system, cloud computing
+
+
+Network Virtualization is a _________ environment that allows _______ service providers to dynamically compose ____________virtual networks.
+d) networking, multiple, multiple
+
+
+Customized wearable devices for collecting health parameters are the best examples of
+d) Cloud-Fog-Edge-IoHT
+
+
+
+Dew Computing is a paradigm where on-premises computers provide functionality that is _________ of cloud services and is also collaborative with cloud services
+ b) independent
+
+
+SOAP uses ______ as transport protocol
+c) HTTP
+
+
+Virtual Machine Monitor is also known as
+d) Hypervisor
+
+Which of the following is/are XML parser API(s)?
+b) SAX (Simple API to XML)
+d) DOM (Document Object Model)

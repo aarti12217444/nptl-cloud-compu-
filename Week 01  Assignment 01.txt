@@ -1,0 +1,42 @@
+
+Which of the following fall(s) under the “essential characteristics” of cloud computing?
+A. Resource Pooling
+B. Measured Service
+C. Rapid Elasticity
+
+
+“Google Doc” is an example of
+C. SaaS
+
+
+Business-Process-as-a-Service is not a part of XaaS.
+B) False
+
+
+Network Function Virtualization involves the implementation of _______ function in software that can run on a range of industry-standard servers ______________.
+D. network,hardware
+
+
+Which are the following applications for SaaS (Software as a Service) architecture?
+A) Billing software
+B) CRM
+
+
+Web access to commercial software is one of the SaaS characteristics in the cloud computing paradigm.
+A. True
+
+
+In the case of the client-server model: Statement (i) Virtualization is a core concept; Statement (ii) system can scale infinitely
+D) None of the statements is correct
+
+
+Client-server model is always load-balanced
+B) False
+
+
+PaaS (Platform as a Service) brings the benefits: (i) Creation of software (ii) Integration of web services and databases
+C. Both (i) and (ii)
+
+
+Which of the following is false?
+b) Community cloud is a composition of public and private cloud.
