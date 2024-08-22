@@ -1,0 +1,46 @@
+
+SQL Azure is a cloud-based relational database service that is based on:
+ (b) SQL Server
+
+
+Microsoft Azure provides
+(a) SaaS
+(b) PaaS
+(c) IaaS
+
+
+Azure App Service plan defines
+ (a) Region
+(b) Instance size
+(c) Scale count
+
+
+The OpenStack component - Glance monitors and meters the OpenStack cloud for billing, benchmarking.
+	 State True of False.
+b) False
+
+
+GCP: Choose the correct option(s)
+b) “gcloud app deploy app.yaml” the command can be used to deploy your app to app-engine
+c) After launching your application to app-engine anyone can view the app at http://[YOUR_PROJECT_ID].appspot.com
+
+
+In OpenStack, the different components of Nova (e.g. scheduler, Compute, api etc.) communicates via:
+(a) Message Queues
+
+
+In OpenStack, __________ is a system for managing networks and IP addresses.
+(c) Neutron
+
+
+Cloud DataStore in GCP is a NoSQL document database built for automatic scaling, high performance, and ease of application development
+a) True
+
+
+GCP: Which one is/are correct statement(s)?
+b) A CNAME alias is a DNS record that lets you use a URL from your own domain to access resources, such as a bucket and objects, in Cloud Storage using your custom domain URL
+c) “Multi-Regional” Storage class is used for the bucket to stream videoes and host hot web content accessed frequently around the world
+
+
+OpenStack: Which IP use is preferred for transferring data to a VM from
+(b) i. Private IP, ii. Floating IP
