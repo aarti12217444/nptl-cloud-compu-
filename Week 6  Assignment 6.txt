@@ -38,4 +38,4 @@ Identify the correct options:
 
 10.......Side channel exploitation has the potential to extract RSA & AES secret keys
  a) True
- b) False
+ 
