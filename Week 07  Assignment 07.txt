@@ -1,0 +1,48 @@
+1....The key features of mobile cloud computing (MCC) are
+ a) Facilitates the quick development, delivery and management of mobile apps
+ c) Improves reliability with information backed up and stored in the cloud
+ 
+
+2....Dynamic runtime offloading involves the issues of
+ a) Runtime application partitioning
+ b) Migration of intensive components
+ c) Continuous synchronization for the entire duration of runtime execution platform
+ 
+
+3....What is/are true about cloudlet?
+  b) Reduces the latency in reaching the cloud servers
+ d) Resides near to the mobile devices
+
+
+4....What is/are true about mobile cloud computing (MCC)?
+  b) MCC reduces the running cost for computation intensive applications
+ 
+
+
+5...What is/are true about the execution of services in mobile cloud computing (MCC)?
+ b) Some services are executed in mobile devices and some services are executed in cloud
+
+6...What of the following is/are fog device(s)?
+ a) Cellular base stations
+ b) Network routers
+ c) WiFi Gateways
+
+
+7....What is/are the advantage(s) of fog computing?
+ a) Reduction in data movement across the network resulting in reduced congestion
+ c) Serving the real-time applications
+
+
+8....Consider the following statements:
+		Statement 1: In Geospatial Cloud, it is needed to integrate data from heterogeneous back-end data service.
+		Statement 2: Data services can be inside and/or outside of the cloud environment in Geospatial Cloud.
+ c) Both statements are Correct.
+ 
+9....Which of the following statement(s) is/are FALSE about Fog Computing?
+  c) Fog nodes’ response time is much higher than Cloud’s
+ d) Network routers, WiFi Gateways will not be capable of running applications
+
+
+10...Which of the following is/are true about Geospatial Cloud Model?
+  b) Data services can be inside and/or outside the cloud environment
+ 
