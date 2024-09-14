@@ -1,0 +1,39 @@
+
+
+1....Which of the following statements best describes fog computing?
+  c) Fog computing is a model where data, processing, and applications are concentrated in devices at the network edge rather than existing almost entirely in the cloud.
+ 
+2....Which of the following challenges is most effectively addressed by using fog and edge computing instead of a "cloud-only" approach for IoT applications?
+  b) The inefficiency of processing time-sensitive applications directly in the cloud due to high latency and large data bandwidth requirements.
+ 
+3....Which of the following correctly describes a classification of resource management architectures in fog/edge computing?
+
+Threads of a process share
+  c) Tenancy.
+ 
+
+4....Which of the following characteristics is NOT typically associated with fog computing infrastructure?
+  c) High computational power concentrated solely in the Cloud
+ 
+5...In the fog computing paradigm, which of the following accurately describes the relationship between local and global analyses?
+c) Local analyses are performed at the edge devices, and global analyses can be either performed at the edge or forwarded to the Cloud.
+
+
+6....What is the primary goal of the application placement problem in the Cloud-Fog-Edge framework?
+  b) To find available resources in the network that satisfy application requirements, respect constraints, and optimize the objective, such as minimizing energy consumption.
+
+7....Which of the following is an example of an application constraint in the application placement problem on the Cloud-Fog-Edge framework?
+  c) Locality requirements restricting certain services’ executions to specific locations.
+
+
+8.....What is the primary purpose of offloading in the context of edge computing?
+  b) To augment computing requirements by moving servers, applications, and associated data closer to the network edge.
+
+
+9....What is the primary goal of a cloud federation?
+b) To deploy and manage multiple cloud services to meet business needs by collaborating among different Cloud Service Providers (CSPs).
+
+
+10....Which of the following is a key benefit of forming a cloud federation?
+ b) Increased resource utilization and load balancing across multiple Cloud Service Providers (CSPs).
+ 
