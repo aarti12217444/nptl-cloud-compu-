@@ -1,0 +1,39 @@
+1...Why is VM migration important in cloud computing environments?
+  b) To efficiently distribute VM load across servers, allowing for system maintenance and operational efficiency.
+ 
+
+2....What is the difference between cold (non-live) and hot (live) VM migration?
+ a) Cold migration turns off the VM during migration, while hot migration keeps the VM running.
+
+
+3....Which of the following approaches are commonly used in live VM migration?
+  b) Pre-copy and Post-copy.
+ 
+
+4....Which of the following is a primary concern during VM migration to ensure service continuity?
+  b) Minimizing both downtime and total migration time, and avoiding unnecessary disruption of active services
+
+
+5...Which phase of live VM migration involves suspending the execution of the VM at the source and copying the remaining dirty pages and CPU state to the destination?
+  c) Stop-and-Copy Phase
+ 
+
+6....What is the primary advantage of the post-copy live memory migration strategy?
+  b) It ensures that memory pages are only copied on demand, potentially reducing unnecessary data transfer.
+ 
+
+7....Which of the following is NOT a requirement for live VM migration?
+  d) Data replication
+
+
+8...In serial VM migration, what happens to the remaining VMs when the first VM enters the stop-and-copy phase?
+  b) They are suspended to prevent memory dirtying
+ 
+
+9....What is a key advantage of using containers in cloud computing?
+  c) Containers package code and dependencies, allowing applications to run consistently across different environments
+ 
+
+10....What is the main function of a Docker container image?
+  b) To package an application along with its code, runtime, system tools, libraries, and settings
+ 
