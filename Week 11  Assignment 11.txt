@@ -1,0 +1,39 @@
+1....Which of the following best describes the key features of dew computing?
+ a. Independence and collaboration
+ 
+
+2...Which of the following best describes serverless computing?
+  b. Developers run their logic as functions, and the cloud provider manages scalability
+ 
+
+3...Which of the following best describes Function-as-a-Service (FaaS)?
+  b) Functions are triggered by events and executed in isolated environments.
+ 
+
+4...How does Serverless Computing differ from traditional Cloud Computing?
+  b) It targets programmers by abstracting server management and simplifying development.
+ 
+
+5...What is a key benefit of using AWS Lambda for running code?
+  c) You upload code and AWS Lambda handles execution and scaling based on events.
+ 
+
+6....What does Google Cloud Functions primarily handle in terms of execution environment?
+ b) Fully managed environments with automatic scaling
+ 
+
+7....What is the primary focus of Azure Functions for developers?
+ b. Writing code and configuring functions
+
+
+8....What is one major challenge of using renewable energy sources in cloud datacenters?
+ a) High capital costs and unpredictability
+
+
+9...What is the primary focus of the power manager component in a sustainable cloud computing datacenter?
+ b. Managing the power supply from renewable and grid sources
+ 
+
+10...Which component of sustainable cloud computing aims to balance the temperature in cloud datacenters to enhance energy efficiency?
+  c. Cooling Management
+ 
