@@ -1,0 +1,58 @@
+1...Which statement(s) is (are) true about dew computing?
+
+Correct Answer: d. Dew computing is a paradigm where on-premises computers provide functionality that is independent of cloud services and is also collaborative with cloud services.
+Explanation: Dew computing emphasizes the interaction between cloud services and local systems, allowing local devices to function independently when needed but also collaborate with the cloud.
+
+
+2...What are the different aspects of CPS (Cyber-Physical Systems)?
+
+Correct Answer: c. Cyber, physical, computation, dynamics, communication, security, and safety.
+Explanation: CPS involves multiple dimensions such as computation, physical interaction, communication, dynamics, safety, and security.
+
+
+3....What is the benefit of 5G's ability to scale down in data rates, power, and mobility for IoT devices?
+
+Correct Answer: b. It provides extremely lean and low-cost connectivity solutions.
+Explanation: 5G’s ability to adjust data rates and power consumption enables low-cost solutions for IoT devices, which typically don’t require high-speed data but need efficient, affordable connectivity.
+
+
+4...Fog-Edge computing leads to increased network congestion.
+
+Correct Answer: b. False
+Explanation: Fog-Edge computing reduces the burden on centralized data centers by processing data closer to the source, thus alleviating congestion rather than increasing it.
+
+
+5...What is(are) the key feature(s) of Mobile Cloud computing for 5G networks?
+
+Correct Answer: a. Sharing resources for mobile applications
+Explanation: Mobile cloud computing enhances the ability to share and offload processing tasks from mobile devices to the cloud, improving performance and efficiency.
+
+
+6....Mobility Analytics utilizes the cloud platform for computation and storage.
+
+Correct Answer: A) True
+Explanation: Mobility analytics leverages cloud computing to perform large-scale computations and store data, as mobility data needs significant processing power and storage capacity.
+
+
+7....In which computing environment is latency fixed due to the location of application modules at the Area Gateway?
+
+Correct Answer: a. Fog computing
+Explanation: Fog computing operates closer to the source of data generation (e.g., local area networks), allowing for more predictable and lower latency.
+
+
+8...Resource-constrained low-latency devices drive the need for
+
+Correct Answer: a. Heterogeneous and distributed computing architectures
+Explanation: Low-latency, resource-constrained devices require diverse (heterogeneous) and distributed architectures to handle varying workloads and minimize latency.
+
+
+9...Customized wearable devices for collecting health parameters are the best examples of
+
+Correct Answer: a. IoHT (Internet of Health Things)
+Explanation: Wearable health devices are prime examples of the Internet of Health Things (IoHT), which focus on collecting and sharing health-related data.
+
+
+10....The cyber-physical system involves transdisciplinary approaches, merging the theory of cybernetics, mechatronics, design, and process science.
+
+Correct Answer: a. True
+Explanation: Cyber-Physical Systems (CPS) integrate several fields including cybernetics, mechatronics, design, and process science to create systems that interact with the physical world through computation.
